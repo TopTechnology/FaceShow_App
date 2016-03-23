@@ -1,4 +1,4 @@
-项目名称：FaceShow alpah版
+项目名称：FaceShow alpha版
 
 性质：这是一个基于face++的动态人脸检测应用
 
